@@ -1,0 +1,8 @@
+Node has:
+1.File system
+2.process object
+3.global object
+Client JS has:
+1.document.queryselector
+2.document
+3.window
